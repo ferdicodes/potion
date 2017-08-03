@@ -1,1 +1,1 @@
-A vim plugin for _Why's Potion
+A vim plugin for _Why's Potion!
